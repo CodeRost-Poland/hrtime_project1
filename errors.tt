@@ -1,0 +1,11 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".txt" #>
+
+Błędy do usunięcia
+1. Form2
+	1.1 Przy przeskakiwaniu kontrolek przy użyciu {TAB}, kontrolki przeskakują w odwrotną stronę.
+	1.2 Przy lokalizacji (język), kontrolki nie dopasowują się rozmiarem i nachodzą na siebie.
